@@ -23,8 +23,11 @@
 Display the distribution of dengue cases across different cities in India. This visualizes the geographic spread and intensity of outbreaks.
 
 ## Video
+<!--
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
+-->
 
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
+We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
